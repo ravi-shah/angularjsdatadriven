@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Building a Data-Driven App with AngularJS
 ![Building a Data-Driven App with AngularJS](hero.png)
 This is the repository for my course, [Building a Data-Driven App with AngularJS](http://www.lynda.com/AngularJS-tutorials/Building-Data-Driven-App-AngularJS/368918-2.html). The full course is available at [lynda.com](http://lynda.com).
@@ -33,3 +34,7 @@ For more help setting up a comprehensive Gulp.js workflow, check out [Web Projec
 
 ## More Stuff
 Check out some of my [other courses on lynda.com](http://lynda.com/rayvillalobos). You can also check out my [youtube channel](http://youtube.com/planetoftheweb), [follow me on twitter](http://twitter.com/planetoftheweb), or read [my blog](http://iviewsource.com).
+=======
+# angularjsdatadriven
+data driven app by angularjs framework
+>>>>>>> 7b05c06939e5c5f65a133ea94d3cdfe34efb2b33
